@@ -1,2 +1,2 @@
 # ai-web-scraper-summarizer
-AI-powered web scraper with automatic content captioning and summarization using LLMs and Streamlit.
+Developed a Streamlit-based AI web application that scrapes website content and uses Large Language Models (LLMs) to generate meaningful captions and concise summaries automatically.
